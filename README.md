@@ -3,5 +3,5 @@
 
 ## Project 1
 
-### <center>Predict whether the Employee of an Organization should get Promotion or Not?</center>
-A model to indentify the right people for promotion based on the data collected by the organization
+#### [Employee Promotion Prediction](https://github.com/sups1704/sups1704/blob/main/Employee%20Promotion%20Prediction.ipynb) : 
+This project is to predict whether an employee should get promotion or not. The aim is to create a model to indentify the right people for promotion based on the data collected by the organization

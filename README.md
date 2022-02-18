@@ -1,5 +1,5 @@
 #### Hi, I’m Supriya Kulkarni, worked as a software professional for 9 years. Currently training for Machine learning, DataScience.
-#### This is a repository containing Machine learning projects done by me for learning, academic purpose.
+#### This is a repository containing Machine learning projects done by me for learning, academic purpose. The projects are presented in the form Python jupyter notebooks
 
 ## Project 1
 

@@ -7,5 +7,5 @@
 This project is to predict whether an employee should get promotion or not. The aim is to create a model to indentify the right people for promotion based on the data collected by the organization
 
 ## Project 2
-#### [Medical Expenses Prediction] :
+#### [Medical Expenses Prediction](https://github.com/sups1704/Machine-Learning/blob/main/Medical%20Expenses%20Prediction.ipynb) :
 The purpose of this project is to predict medical expenses of people depending on various factors. The aim is to identify the reason which leads to high medical expenses of a patient which is an indication his bad health and help him to improve on that.

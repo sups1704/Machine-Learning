@@ -9,3 +9,7 @@ This project is to predict whether an employee should get promotion or not. The 
 ## Project 2
 #### [Medical Expenses Prediction](https://github.com/sups1704/Machine-Learning/blob/main/Medical%20Expenses%20Prediction.ipynb) :
 The purpose of this project is to predict medical expenses of people depending on various factors. The aim is to identify the reason which leads to high medical expenses of a patient which is an indication his bad health and help him to improve on that.
+
+## Project 3 (Deep Learning)
+#### [Customer Churn Rate Prediction](https://github.com/sups1704/Machine-Learning/blob/main/Predicting%20Churn%20rate%20of%20the%20Customer.ipynb) :
+This project is to predict the churn rate of the customers of a bank. The aim is to create a deep learning model to predict which of the customers will leave the bank in future. 

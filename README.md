@@ -13,3 +13,7 @@ The purpose of this project is to predict medical expenses of people depending o
 ## Project 3 (Deep Learning)
 #### [Customer Churn Rate Prediction](https://github.com/sups1704/Machine-Learning/blob/main/Predicting%20Churn%20rate%20of%20the%20Customer.ipynb) :
 This project is to predict the churn rate of the customers of a bank. The aim is to create a deep learning model to predict which of the customers will leave the bank in future. 
+
+## Project 4 (NLP)
+#### [Movie Recommender System](https://github.com/sups1704/Machine-Learning/blob/main/Movie%20Recommender%20System.ipynb) :
+This project is made as a learning purpose to build a movie recommender system based on tfidf and cosine similarities

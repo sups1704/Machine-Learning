@@ -17,3 +17,8 @@ This project is to predict the churn rate of the customers of a bank. The aim is
 ## Project 4 (NLP)
 #### [Movie Recommender System](https://github.com/sups1704/Machine-Learning/blob/main/Movie%20Recommender%20System.ipynb) :
 This project is made as a learning purpose to build a movie recommender system based on tfidf and cosine similarities
+
+## Project 5(NLP)
+#### [Sentiment Analysis](https://github.com/sups1704/Machine-Learning/blob/main/Sentiment%20Analysis.ipynb)
+In this project we have taken the Airline tweets used earlier and analysed its performance on various models with imabalanced data and after handling imbalanced data.
+In the end we have tried the Text Augmentation method for removing the imbalance in  data and reviewed its performance
